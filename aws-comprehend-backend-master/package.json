@@ -1,0 +1,33 @@
+{
+  "name": "comprehend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.207.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "csv-array": "0.0.22",
+    "decompress": "^4.2.0",
+    "decompress-targz": "^4.1.1",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "formidable": "^1.2.0",
+    "hbs": "^4.0.1",
+    "multer": "^1.3.0",
+    "path": "^0.12.7",
+    "request": "^2.83.0",
+    "tar.gz": "^1.0.7",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://ec2-52-26-48-87.us-west-2.compute.amazonaws.com/sushant/comprehend-testing.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
